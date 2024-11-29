@@ -139,8 +139,11 @@ ul{
     border-radius:10px;
     padding: 20px;
     box-shadow: 0px 0px 20px 20px rgba(96, 126, 134, 0.473);
-    position:relative;
-    margin: 0 0 0 380px;
+    position:fixed;
+    width: 300px;
+    top:5px;
+    bottom: 5px;
+    margin: 0 0 0 320px;
 }
 
 .title{
